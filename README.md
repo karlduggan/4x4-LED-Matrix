@@ -1,10 +1,21 @@
-# 4x4-LED-Matrix
+### 4x4-LED-Matrix
+### Description
+A one day project building a 4x4 LED matrix display
 
+![alt text](https://github.com/karlduggan/4x4-LED-Matrix/blob/main/demo.gif)
 
+### Components
+- Shift register(SN7HC595N)
+- Jumper cables
+- Arduino UNO
+- 16 LED's
+- 330 ohm's resistors x4
+
+### Schematics
 
 ![alt text](https://github.com/karlduggan/4x4-LED-Matrix/blob/main/schematic/4x4%20Led%20Matrix%20schematic.png)
 
-
+### Source Code
 ```
 // 4x4 Matrix
 
